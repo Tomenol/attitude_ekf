@@ -5,5 +5,17 @@ The script is complemented with a script which simulates the system's rotation, 
 
 ![image](https://user-images.githubusercontent.com/54234406/154864160-3ebc088a-677d-4e04-bd7d-3c4a7cf17f00.png)
 
-The simulation 𝜃_0![image](https://user-images.githubusercontent.com/54234406/154864227-8008d82e-3b4b-4d9b-b06f-6d5e7cc711f4.png)
+The EKF algorithm uses the following state vector :
+
+![image](https://user-images.githubusercontent.com/54234406/154864400-b1cf3e39-0c7d-4a4c-8647-1013752818be.png)
+
+# results :
+By running the simulation, we can obtain the following results :
+
+![image](https://user-images.githubusercontent.com/54234406/154864419-18fd9877-3e39-426d-b689-b7293d70288d.png)
+
+Legend : 
+red curve -> theoretical value
+blue curve -> optimal EKF state estimate
+
 
