@@ -5,4 +5,5 @@ The script is complemented with a script which simulates the system's rotation, 
 
 ![image](https://user-images.githubusercontent.com/54234406/154864160-3ebc088a-677d-4e04-bd7d-3c4a7cf17f00.png)
 
-\theta_0
+The simulation 𝜃_0![image](https://user-images.githubusercontent.com/54234406/154864227-8008d82e-3b4b-4d9b-b06f-6d5e7cc711f4.png)
+
