@@ -12,10 +12,11 @@ The EKF algorithm uses the following state vector :
 # results :
 By running the simulation, we can obtain the following results :
 
-![image](https://user-images.githubusercontent.com/54234406/154864419-18fd9877-3e39-426d-b689-b7293d70288d.png)
+![image](https://user-images.githubusercontent.com/54234406/155009076-cac46f25-6842-42f7-86d7-a83f6a9b33d0.png)
 
 Legend : 
 red curve -> theoretical value
+
 blue curve -> optimal EKF state estimate
 
 
